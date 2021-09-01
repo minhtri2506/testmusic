@@ -36,12 +36,6 @@ const app = {
             image:'https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/09/11/2/9/c/6/1505103180911.jpg'
         },
         {
-            name: '31073',
-            singer: 'VA',
-            path: './music/31073.mp3',
-            image:'https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/12/10/e/8/9/7/1575970629322_600.jpg'
-        },
-        {
             name: 'Từng là tất cả',
             singer: 'Karik',
             path: './music/TungLaTatCa.mp3',
@@ -82,6 +76,36 @@ const app = {
             singer: 'Phan Mạnh Quỳnh',
             path: './music/VoNguoiTa.mp3',
             image:'https://avatar-ex-swe.nixcdn.com/song/2018/03/11/6/7/d/9/1520771354788_500.jpg'
+        },
+        {
+            name: 'Thiên đàng',
+            singer: 'Wowy',
+            path: './music/ThienDang.mp3',
+            image:'https://avatar-ex-swe.nixcdn.com/song/2021/01/29/b/e/f/3/1611919776807_500.jpg'
+        },
+        {
+            name: 'Shape of you',
+            singer: 'Ed Sheeran',
+            path: './music/Shape Of You.mp3',
+            image:'https://avatar-ex-swe.nixcdn.com/song/2018/01/25/5/2/d/e/1516891769034_500.jpg'
+        },
+        {
+            name: 'Monsters',
+            singer: 'Katie Sky',
+            path: './music/Monsters.mp3',
+            image:'https://avatar-ex-swe.nixcdn.com/song/2019/09/05/2/6/c/4/1567654853186_500.jpg'
+        },
+        {
+            name: 'Ngắm hoa lệ rơi',
+            singer: 'Châu Khải Phong',
+            path: './music/NgamHoaLeRoi.mp3',
+            image:'https://avatar-ex-swe.nixcdn.com/song/2018/03/16/5/d/e/c/1521183758171_500.jpg'
+        },
+        {
+            name: 'Reality',
+            singer: 'Janieck Devy',
+            path: './music/Reality.mp3',
+            image:'https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/4/c/4cf16a3bf73107120d44c3bcfc914e27_1475810469.jpg'
         }
     ],
     setConfig: function(key, value){
